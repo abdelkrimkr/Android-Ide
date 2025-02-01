@@ -1,4 +1,4 @@
-name: Android CI Debug App
+name: Android CI
 
 on:
   push:
